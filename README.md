@@ -33,6 +33,10 @@ Additionally, you need to have MATLAB installed on your system for the following
 import matlab.engine
 ```
 
+## Execution
+
+Run the Python script: `main.py`
+
 ## Authors
 
 * [Nicolas Gratius](https://www.linkedin.com/in/nicolas-gratius-3360b0110/)
