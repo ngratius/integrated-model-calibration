@@ -1,0 +1,21 @@
+Simulation environment requirements: 
+ - MATLAB R2022a or older
+ - Install the following packages
+    - MATLAB
+    - Simulink
+    - Simscape
+    - Simscape Fluids
+    - Statistics and Machine Learning Toolbox
+
+How to use the Simulink Model:
+1) Open STEVE_ver28.slx and the .m file on the condition that you want to run
+2-a) For data generation, run the first section (NOT the entire code) of the .m file
+2-b) For prognostics, set the CO2 concentration (line 10 in the .m file of interest) to 0.003. Then, run the section
+3) Hit the Start button on the .slx file to start the simulation
+4-a) For data generation, hit the stop button after you run roughly 300 sec (=5min) since that's the only data you'd really need
+4-b) To run prognostics, run until the simulation automatically ends
+5) Run the second section of the .m file. A csv file will be created on the path that you are on. 
+
+
+
+
