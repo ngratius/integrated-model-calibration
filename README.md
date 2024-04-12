@@ -21,6 +21,12 @@ This project relies on the following Python packages:
 - pgmpy
 - networkx
 
+Ensure you have the necessary dependencies installed using pip:
+
+```bash
+pip install pandas numpy torch scikit-learn matplotlib blitz pgmpy networkx
+```
+
 Additionally, you need to have MATLAB installed on your system for the following code block to work:
 
 ```python
