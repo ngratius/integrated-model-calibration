@@ -2,7 +2,7 @@
 
 Integrated Calibration of Simulation Models for Autonomous Space Habitat Operations
 
-Related publication: IEEE Aerospace 2024 (in production)
+Related publication: [https://doi.org/10.1109/AERO58975.2024.10520995](https://doi.org/10.1109/AERO58975.2024.10520995)
 
 ## Description
 
